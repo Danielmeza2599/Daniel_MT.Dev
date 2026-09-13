@@ -10,6 +10,23 @@
 * ⚙️ Apasionado por la integración de APIs, automatización de procesos y despliegues en la nube.
 * 🌍 Buscando siempre aprender e implementar nuevas tecnologías en el ecosistema de IA y desarrollo.
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielmeza2599&show_icons=true&theme=dark&hide_border=true" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmeza2599&layout=compact&theme=dark&hide_border=true" alt="Daniel's Top Languages" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danielmeza2599&theme=github-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 💭 Dev
+
+> "The only way to do great work is to love what you do. — Steve Jobs"
+
 * ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
