@@ -12,12 +12,12 @@
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielmeza2599&show_icons=true&theme=dark&hide_border=true)
-![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmeza2599&layout=compact&theme=dark&hide_border=true)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielmeza2599&show_icons=true&theme=dark&hide_border=true&v=1)
+![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmeza2599&layout=compact&theme=dark&hide_border=true&v=1)
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danielmeza2599&theme=github-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danielmeza2599&theme=github-dark&hide_border=true&v=1)
 
 ## 💭 Dev
 
