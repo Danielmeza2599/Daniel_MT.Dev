@@ -12,16 +12,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielmeza2599&show_icons=true&theme=dark&hide_border=true" alt="Daniel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmeza2599&layout=compact&theme=dark&hide_border=true" alt="Daniel's Top Languages" />
-</div>
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielmeza2599&show_icons=true&theme=dark&hide_border=true)
+![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmeza2599&layout=compact&theme=dark&hide_border=true)
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danielmeza2599&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danielmeza2599&theme=github-dark&hide_border=true)
 
 ## 💭 Dev
 
